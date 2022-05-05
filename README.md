@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there 
 I am glad you visit my profile, how may i help you?
 
-# 👩‍🎓 Who am I?
+# ⚡ Who am I?
 I am Cagla. 22 years old from Turkey, and aspiring to be a mobile developer.
 
 ## 👩‍💻 What do i code?
