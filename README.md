@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 I am glad you visit my profile, how may i help you?
 
 # ⚡ Who am I?
-I am Cagla. 22 years old from Turkey, and aspiring to be a mobile developer.
+I am Cagla. 22 years old from Turkey, and aspiring to be a mobile developer. Recently graduated from Computer Engineering at BAU.
 
 ## 👩‍💻 What do i code?
 I code both ios-native and cross-platform mobile applications using swift, flutter or react-native.
 
 ### 🔭 I’m currently working on...
-My capstone project for graduation! It's about decentralizing renewable energy and creating a market within ethereum network.  
+an ios native project and writing a paper for my capstone project! It's about decentralizing renewable energy and creating a market within ethereum network.
 
 ### 💬 How can you get in touch with me?
 - E-Mail: [caglacprgl@outlook.com](mailto:caglacprgl@outlook.com)
