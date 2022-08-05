@@ -24,7 +24,7 @@ I am Cagla. 22 years old from Turkey, and aspiring to be a mobile developer. Rec
 I code both ios-native and cross-platform mobile applications using swift, flutter or react-native.
 
 ### 🔭 I’m currently working on...
-an ios native project and writing a paper for my capstone project! It's about decentralizing renewable energy and creating a market within ethereum network.
+personal coding project written in Swift to be shared later on my page.
 
 ### 💬 How can you get in touch with me?
 - E-Mail: [caglacprgl@outlook.com](mailto:caglacprgl@outlook.com)
