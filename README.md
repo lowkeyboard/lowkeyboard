@@ -12,19 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 🔭 I’m currently working on...
 -->
 
 # ✨ Hi there 
 I am glad you visit my profile, how may i help you?
 
-# ⚡ Who am I?
-I am Cagla. 22 years old from Turkey, and aspiring to be a mobile developer. Recently graduated from Computer Engineering at BAU.
-
 ## 👩‍💻 What do i code?
 I code both ios-native and cross-platform mobile applications using swift, flutter or react-native.
-
-### 🔭 I’m currently working on...
-personal coding project written in Swift to be shared later on my page.
 
 ### 💬 How can you get in touch with me?
 - E-Mail: [caglacprgl@outlook.com](mailto:caglacprgl@outlook.com)
